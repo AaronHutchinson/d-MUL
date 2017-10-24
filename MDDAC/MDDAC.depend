@@ -1,0 +1,395 @@
+# depslib dependency file v1.0
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\basicthreadpool.cpp
+	<NTL/BasicThreadPool.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\ctools.cpp
+	<NTL/ctools.h>
+	<cstdlib>
+	<cmath>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\facvec.cpp
+	<NTL/FacVec.h>
+	<NTL/ZZ.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\fft.cpp
+	<NTL/FFT.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\fileio.cpp
+	<NTL/fileio.h>
+	<NTL/thread.h>
+	<string>
+	<sstream>
+	<iomanip>
+	<ctime>
+	<cstring>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\g_lll_fp.cpp
+	<NTL/LLL.h>
+	<NTL/fileio.h>
+	<NTL/vec_double.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\g_lll_qp.cpp
+	<NTL/LLL.h>
+	<NTL/vec_quad_float.h>
+	<NTL/fileio.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\g_lll_rr.cpp
+	<NTL/LLL.h>
+	<NTL/fileio.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\g_lll_xd.cpp
+	<NTL/LLL.h>
+	<NTL/fileio.h>
+	<NTL/vec_xdouble.h>
+	<NTL/vec_double.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\getpid.cpp
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\gettime.cpp
+	<NTL/config.h>
+	<ctime>
+	<NTL/ctools.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\gf2.cpp
+	<NTL/GF2.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\gf2e.cpp
+	<NTL/GF2E.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\gf2ex.cpp
+	<NTL/GF2EX.h>
+	<NTL/vec_vec_GF2.h>
+	<NTL/ZZX.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\gf2exfactoring.cpp
+	<NTL/GF2EXFactoring.h>
+	<NTL/vec_GF2XVec.h>
+	<NTL/fileio.h>
+	<NTL/FacVec.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\gf2x.cpp
+	<NTL/GF2X.h>
+	<NTL/vec_long.h>
+	<NTL/new.h>
+	<cstdio>
+	<gf2x.h>
+	<wmmintrin.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\gf2x1.cpp
+	<NTL/GF2X.h>
+	<NTL/vec_long.h>
+	<NTL/ZZX.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\gf2xfactoring.cpp
+	<NTL/GF2XFactoring.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\gf2xvec.cpp
+	<NTL/GF2XVec.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\hnf.cpp
+	<NTL/HNF.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lip.cpp
+	<NTL/config.h>
+	"g_lip_impl.h"
+	"c_lip_impl.h"
+
+1474836602 c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\g_lip_impl.h
+	<NTL/lip.h>
+	<NTL/tools.h>
+	<NTL/vector.h>
+	<NTL/SmartPtr.h>
+	<NTL/sp_arith.h>
+	<cmath>
+	<gmp.h>
+
+1474836602 c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\c_lip_impl.h
+	<NTL/lip.h>
+	<NTL/tools.h>
+	<NTL/vector.h>
+	<NTL/SmartPtr.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lll.cpp
+	<NTL/LLL.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lll_fp.cpp
+	<NTL/LLL.h>
+	<NTL/fileio.h>
+	<NTL/vec_double.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lll_qp.cpp
+	<NTL/LLL.h>
+	<NTL/vec_quad_float.h>
+	<NTL/fileio.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lll_rr.cpp
+	<NTL/LLL.h>
+	<NTL/fileio.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lll_xd.cpp
+	<NTL/LLL.h>
+	<NTL/fileio.h>
+	<NTL/vec_xdouble.h>
+	<NTL/vec_double.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lzz_p.cpp
+	<NTL/lzz_p.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lzz_pe.cpp
+	<NTL/lzz_pE.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lzz_pex.cpp
+	<NTL/lzz_pEX.h>
+	<NTL/vec_vec_lzz_p.h>
+	<NTL/ZZX.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lzz_pexfactoring.cpp
+	<NTL/lzz_pEXFactoring.h>
+	<NTL/FacVec.h>
+	<NTL/fileio.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lzz_px.cpp
+	<NTL/lzz_pX.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lzz_px1.cpp
+	<NTL/lzz_pX.h>
+	<NTL/new.h>
+	<immintrin.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lzz_pxcharpoly.cpp
+	<NTL/mat_poly_lzz_p.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\lzz_pxfactoring.cpp
+	<NTL/lzz_pXFactoring.h>
+	<NTL/mat_lzz_p.h>
+	<NTL/FacVec.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_gf2.cpp
+	<NTL/mat_GF2.h>
+	<NTL/vec_long.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_gf2e.cpp
+	<NTL/mat_GF2E.h>
+	<NTL/vec_GF2XVec.h>
+	<NTL/vec_long.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_lzz_p.cpp
+	<NTL/mat_lzz_p.h>
+	<NTL/new.h>
+	<NTL/vec_long.h>
+	<NTL/BasicThreadPool.h>
+	<immintrin.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_lzz_pe.cpp
+	<NTL/mat_lzz_pE.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_poly_lzz_p.cpp
+	<NTL/mat_poly_lzz_p.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_poly_zz.cpp
+	<NTL/mat_poly_ZZ.h>
+	<NTL/mat_poly_ZZ_p.h>
+	<NTL/mat_poly_lzz_p.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_poly_zz_p.cpp
+	<NTL/mat_poly_ZZ_p.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_rr.cpp
+	<NTL/mat_RR.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_zz.cpp
+	<NTL/mat_ZZ.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_zz_p.cpp
+	<NTL/mat_ZZ_p.h>
+	<NTL/vec_ZZVec.h>
+	<NTL/vec_long.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\mat_zz_pe.cpp
+	<NTL/mat_ZZ_pE.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\quad_float.cpp
+	<NTL/quad_float.h>
+	<NTL/RR.h>
+	<cfloat>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\rr.cpp
+	<NTL/RR.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\thread.cpp
+	<NTL/thread.h>
+	<thread>
+	<sstream>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\tools.cpp
+	<NTL/tools.h>
+	<cctype>
+	<cstdio>
+	<NTL/new.h>
+
+1474836603 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\vec_gf2.cpp
+	<NTL/vec_GF2.h>
+	<NTL/new.h>
+	<cstdio>
+
+1474836603 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\vec_gf2e.cpp
+	<NTL/vec_GF2E.h>
+
+1474836603 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\vec_lzz_p.cpp
+	<NTL/vec_lzz_p.h>
+
+1474836603 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\vec_lzz_pe.cpp
+	<NTL/vec_lzz_pE.h>
+
+1474836603 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\vec_rr.cpp
+	<NTL/vec_RR.h>
+
+1474836603 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\vec_zz.cpp
+	<NTL/vec_ZZ.h>
+
+1474836603 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\vec_zz_p.cpp
+	<NTL/vec_ZZ_p.h>
+
+1474836603 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\vec_zz_pe.cpp
+	<NTL/vec_ZZ_pE.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\wordvector.cpp
+	<NTL/WordVector.h>
+	<NTL/new.h>
+	<cstdio>
+
+1474836603 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\xdouble.cpp
+	<NTL/xdouble.h>
+	<NTL/RR.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zz.cpp
+	<NTL/ZZ.h>
+	<NTL/vec_ZZ.h>
+	<NTL/Lazy.h>
+	<NTL/fileio.h>
+	<cstring>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zz_p.cpp
+	<NTL/ZZ_p.h>
+	<NTL/FFT.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zz_pe.cpp
+	<NTL/ZZ_pE.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zz_pex.cpp
+	<NTL/ZZ_pEX.h>
+	<NTL/vec_vec_ZZ_p.h>
+	<NTL/ZZX.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zz_pexfactoring.cpp
+	<NTL/ZZ_pEXFactoring.h>
+	<NTL/FacVec.h>
+	<NTL/fileio.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zz_px.cpp
+	<NTL/ZZ_pX.h>
+	<NTL/BasicThreadPool.h>
+	<NTL/new.h>
+	<NTL/ZZX.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zz_px1.cpp
+	<NTL/ZZ_pX.h>
+	<NTL/BasicThreadPool.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zz_pxcharpoly.cpp
+	<NTL/mat_poly_ZZ_p.h>
+	<NTL/new.h>
+
+1474836602 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zz_pxfactoring.cpp
+	<NTL/ZZ_pXFactoring.h>
+	<NTL/vec_ZZVec.h>
+	<NTL/fileio.h>
+	<NTL/FacVec.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zzvec.cpp
+	<NTL/ZZVec.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zzx.cpp
+	<NTL/ZZX.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zzx1.cpp
+	<NTL/ZZX.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zzxcharpoly.cpp
+	<NTL/ZZX.h>
+	<NTL/new.h>
+
+1474836601 source:c:\users\hutchinsona2013\desktop\winntl-9_11_0\winntl-9_11_0\src\zzxfactoring.cpp
+	<NTL/ZZXFactoring.h>
+	<NTL/lzz_pXFactoring.h>
+	<NTL/vec_vec_long.h>
+	<NTL/vec_vec_ulong.h>
+	<NTL/vec_double.h>
+	<NTL/LLL.h>
+	<NTL/new.h>
+
+1477345154 source:c:\users\hutchinsona2013\dropbox\programming\mddac\main.cpp
+	"NTL/ZZ_pXFactoring.h"
+	"NTL/ZZ_pE.h"
+	"NTL/ZZ.h"
+	<NTL/vector.h>
+	<NTL/matrix.h>
+	<utility>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<math.h>
+	<algorithm>
+	<cmath>
+	<unordered_map>
+	<time.h>
+	<Windows.h>
+
